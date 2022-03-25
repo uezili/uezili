@@ -1,9 +1,9 @@
-<hr>
 ### Hi there 👋 I'm Wesley, but you can call me Uézili! ^^
+<hr>
+- 🔭 I’m currently working how Full Steck programer; <br>
+- 🌱 I’m currently learning PHP, Laravel.
 
-- 🔭 I’m currently working how Full Steck programer 
-- 🌱 I’m currently learning PHP, Laravel 
-
+<hr>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uezili&show_icons=true&theme=aura "/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uezili&layout=compact&langs_count=16&theme=aura "/>
