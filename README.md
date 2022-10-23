@@ -5,20 +5,20 @@
 
 <hr>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uezili&show_icons=true&theme=aura "/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uezili&layout=compact&langs_count=16&theme=aura "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uezili&show_icons=true&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uezili&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
 <hr>
 
 <div>
-  <img alt"Uezili-Python" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt"Uezili-PHP" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
-  <img alt"Uezili-javascript" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt"Uezili-Html5" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
-  <img alt"Uezili-Css3" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img alt"Uezili-React" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
-  <img alt"Uezili-Bash" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt"Uezili-Python" title"Python" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt"Uezili-PHP" title="Php" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+  <img alt"Uezili-javascript" title="Javascript" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt"Uezili-Html5" title="HTML" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
+  <img alt"Uezili-Css3" title="CSS" lingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img alt"Uezili-React" title="React" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
+  <img alt"Uezili-Bash" title="Bash" alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
 <hr>
