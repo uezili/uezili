@@ -2,6 +2,7 @@
  - 🔭 I’m currently working how the Full Steck programmer;<br>
  - 🌱 I’m currently learning PHP, Drupal 9;<br>
  - 🌱 I’m currently learning back-end technology;<br>
+ - 🌱 Currently attending the seventh period of the faculty of computer science;<br>
  - ⚡ Fun fact I am a former volleyball player and karate fighter.
 
 ## 🌐 Socials:
@@ -22,6 +23,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GNU Linux](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uezili&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
