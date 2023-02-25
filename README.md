@@ -28,9 +28,13 @@
 ![GNU Linux](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uezili&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=uezili&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uezili&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=demo)
+<div align="center">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=uezili&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uezili&theme=onedark&hide_border=false" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uezili&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+# 🏆 GitHub Trophies:
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=uezili&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</div>
