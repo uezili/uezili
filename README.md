@@ -38,3 +38,6 @@
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=uezili&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
 </div>
+
+# Holopin
+[![An image of @uezili's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uezili)](https://holopin.io/@uezili)
