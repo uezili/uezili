@@ -4,9 +4,6 @@
  - 🌱 Currently attending the seventh period of the faculty of computer science;<br>
  - ⚡ Fun fact I am a former volleyball player and karate fighter.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Wesley.Maciel.7517/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uezili.maciel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-maciel-975322170/) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,5 +36,5 @@
  <img src="https://github-profile-trophy.vercel.app/?username=uezili&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-# Holopin
+# 🌐 Holopin
 [![An image of @uezili's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uezili)](https://holopin.io/@uezili)
