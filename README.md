@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 🔭 I’m currently working as the Full Steck developer;<br>
+ - 🔭 I’m currently working as a tester;<br>
  - 🌱 I’m currently learning quality assurance technology;<br>
  - 🌱 I’m currently studying the eighth period of computer science college;<br>
  - ⚡ Fun fact I am a former volleyball player and karate fighter.
